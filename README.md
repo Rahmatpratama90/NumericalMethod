@@ -1,2 +1,2 @@
 # Numerical Method 
-Tugas Metnum
+Numerical Method Assigment
