@@ -1,2 +1,3 @@
 # Numerical Method 
-Numerical Method Assigment
+
+* Numerical Method Assigment
